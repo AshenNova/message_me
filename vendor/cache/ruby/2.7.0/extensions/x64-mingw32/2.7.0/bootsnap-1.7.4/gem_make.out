@@ -1,0 +1,16 @@
+current directory: C:/Windows/System32/message_me/vendor/cache/ruby/2.7.0/gems/bootsnap-1.7.4/ext/bootsnap
+C:/Ruby27-x64/bin/ruby.exe -I C:/Ruby27-x64/lib/ruby/2.7.0 -r ./siteconf20210428-19432-krfq2b.rb extconf.rb
+creating Makefile
+
+current directory: C:/Windows/System32/message_me/vendor/cache/ruby/2.7.0/gems/bootsnap-1.7.4/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: C:/Windows/System32/message_me/vendor/cache/ruby/2.7.0/gems/bootsnap-1.7.4/ext/bootsnap
+make "DESTDIR="
+generating bootsnap-x64-mingw32.def
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: C:/Windows/System32/message_me/vendor/cache/ruby/2.7.0/gems/bootsnap-1.7.4/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20210428-19432-t9yvmz/bootsnap
